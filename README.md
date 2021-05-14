@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-They're too new, but can read: [My Blogs](https://rachejazz.me/blogs.html)
+They're too new, but can read *pleading eyes : [My Blogs](https://rachejazz.me/blogs.html)
