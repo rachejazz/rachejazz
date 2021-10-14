@@ -1,4 +1,18 @@
-Did not find a section to tell about my blogs
+![](https://komarev.com/ghpvc/?username=rachejazz)
+```bash
+ ____ ____ ____ ____ ____         ____ ____ ____ ____ ____ ____ 
+||H |||E |||L |||L |||O ||       ||W |||O |||R |||L |||D |||! ||
+||__|||__|||__|||__|||__||       ||__|||__|||__|||__|||__|||__||
+|/__\|/__\|/__\|/__\|/__\|       |/__\|/__\|/__\|/__\|/__\|/__\|
+
+
+┬─[divya at racharch in ~/a/t/README.md]
+╰──> λ cat .whoami
+I DUMP MY /home HERE!
+for my /etc:            rachejazz.me
+for my /var:            rachejazz.me/blogs.html
+
+```
 
 <!--
 **rachejazz/rachejazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +29,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-They're too new, but can read *pleading eyes : [My Blogs](https://rachejazz.me/blogs.html)
 
-![test](https://camo.githubusercontent.com/148e7e6c954a413f6058f4b612a40e65b0693cd319f0236399ec479fca959c60/68747470733a2f2f6173736574732e776562736974652d66696c65732e636f6d2f3565353162336230333337333039643637326566643934632f3565353163633539333364333638666562633335313839375f666f6f7465722d696d672e737667)
